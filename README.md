@@ -115,7 +115,7 @@ A Fully functional social media app written in flutter and dart using node.js an
 ## **How to run?**
 
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
-
+a
 ### Clone this repository
 
 ```bash
